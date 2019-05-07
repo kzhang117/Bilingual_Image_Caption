@@ -1,0 +1,2 @@
+# Bilingual_Image_Caption
+一张图片同时生成英文和日文标题
